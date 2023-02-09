@@ -24,5 +24,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 **# Screenshot**
+![_C__Users_cwhit_portfolio-project-css_Portfolio-Project-CSS_index html](https://user-images.githubusercontent.com/123609107/217684405-5e00b5d0-8e22-4436-9161-9f22c4975209.png)
 
 # **Link**
+https://cwhite2127.github.io/Portfolio-Project-CSS/
