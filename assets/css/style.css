@@ -30,7 +30,7 @@ li {
 }
 
 p {
-    text-align: ;
+    text-align: center;
     font-size: 16px;
 }
 
@@ -47,7 +47,7 @@ h2 {
 
 .container aside {
     flex: 0, 0, 20vw
-    order: -1;
+    order -1;
 }
 
 .container article {
